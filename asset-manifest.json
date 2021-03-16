@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/https//dalianne.github.io/ex3-firestore/static/css/main.1469173b.chunk.css",
+    "main.js": "/https//dalianne.github.io/ex3-firestore/static/js/main.3eb9b9d5.chunk.js",
+    "main.js.map": "/https//dalianne.github.io/ex3-firestore/static/js/main.3eb9b9d5.chunk.js.map",
+    "runtime-main.js": "/https//dalianne.github.io/ex3-firestore/static/js/runtime-main.debe0939.js",
+    "runtime-main.js.map": "/https//dalianne.github.io/ex3-firestore/static/js/runtime-main.debe0939.js.map",
+    "static/js/2.0bb00783.chunk.js": "/https//dalianne.github.io/ex3-firestore/static/js/2.0bb00783.chunk.js",
+    "static/js/2.0bb00783.chunk.js.map": "/https//dalianne.github.io/ex3-firestore/static/js/2.0bb00783.chunk.js.map",
+    "index.html": "/https//dalianne.github.io/ex3-firestore/index.html",
+    "static/css/main.1469173b.chunk.css.map": "/https//dalianne.github.io/ex3-firestore/static/css/main.1469173b.chunk.css.map",
+    "static/js/2.0bb00783.chunk.js.LICENSE.txt": "/https//dalianne.github.io/ex3-firestore/static/js/2.0bb00783.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.debe0939.js",
+    "static/js/2.0bb00783.chunk.js",
+    "static/css/main.1469173b.chunk.css",
+    "static/js/main.3eb9b9d5.chunk.js"
+  ]
+}
